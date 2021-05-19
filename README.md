@@ -5,6 +5,8 @@ An attempt to automate:
 1. Downloading of mp3 Files from Youtube
 2. Extracting of excerpts from downloaded mp3 files
 
+When I needed to download 30 songs off Youtube for a (Guess The Song)[https://songtrivia2.io/] game 🙃
+
 
 ## 1. Downloading mp3 from Youtube: Install youtube-dl
 `pip install youtube-dl`
