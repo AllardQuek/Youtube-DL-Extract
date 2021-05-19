@@ -15,6 +15,7 @@ Alternatively,
 
 ### Download by Passing Command-line Arguments
 Pass youtube link(s) as arguments. Arguments must be space-separated.
+
 `pythoon args_ytdl.py <link1> <link2> <link3> ...` 
 
 ### Download by Passing Input File as Argument
@@ -23,11 +24,16 @@ Pass youtube link(s) as arguments. Arguments must be space-separated.
 
 ## Manipulation of Audio Files
 `pip install pydub`
+
 `cd extract`
 
 ### Extract First 10s Using File Path
 Pass the filepath as an argument.
 
+`python single_extract.py sample-audio.mp3`
+
 ### Extract First 10s of All Files in a Directory
 Specifiy input and output directories.
+
+`python extract_10s.py`
 
