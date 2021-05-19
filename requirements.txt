@@ -1,0 +1,7 @@
+# For downloading from youtube
+youtube-dl
+
+# For trimming audio
+pydub
+
+
