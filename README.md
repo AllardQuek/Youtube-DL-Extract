@@ -6,10 +6,10 @@ An attempt to automate:
 2. Extracting of excerpts from downloaded mp3 files
 
 
-## Downloading mp3 from Youtube: Install youtube-dl
+## 1. Downloading mp3 from Youtube: Install youtube-dl
 `pip install youtube-dl`
 
-Alternatively, 
+Alternatively, ...
 
 `cd download`
 
@@ -22,7 +22,7 @@ Pass youtube link(s) as arguments. Arguments must be space-separated.
 `python args_ytdl.pt ../input_files/files.txt`
 
 
-## Manipulation of Audio Files
+## 2. Manipulation of Audio Files
 `pip install pydub`
 
 `cd extract`
