@@ -20,7 +20,7 @@ Pass youtube link(s) as arguments. Arguments must be space-separated.
 `pythoon args_ytdl.py <link1> <link2> <link3> ...` 
 
 ### Download by Passing Input File as Argument
-`python args_ytdl.pt ../input_files/files.txt`
+`python args_ytdl.py input_files/files.txt`
 
 
 ## 2. Manipulation of Audio Files
@@ -34,7 +34,7 @@ Pass the filepath as an argument.
 `python single_extract.py sample-audio.mp3`
 
 ### Extract First 10s of All Files in a Directory
-Specifiy input and output directories.
+Specifiy input and output directories in `extract_10s.py`.
 
 `python extract_10s.py`
 
