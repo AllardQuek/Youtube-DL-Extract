@@ -8,8 +8,9 @@ def main():
         print("Please provide a file!")
         return 1;
 
-    # Output path to save results to
-    path = "~/Desktop/FN-GTS/FN-music/"
+    # Output path to save results to (add a / at the end!)
+    # path = "~/Desktop/FN-GTS/FN-music/"
+    path = "./outputs/"
     file = sys.argv[1]
 
     with open(file) as f:
