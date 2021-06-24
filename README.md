@@ -44,4 +44,5 @@ First, make sure folders used are already created (they may be empty).
 Pass in the input directory path, output directory path, and duration in seconds to extract.
 
 Note that all paths should **end with a forward slash** so that the correct file paths can be constructed using string concatenation.
-`python args_extract_10s.py -in ./outputs/10s/ -out ./outputs/5s/ -dur 5`
+Using default arguments: `python args_extract_10s.py`
+Specifying command-line arguments: `python args_extract_10s.py -in ./outputs/10s/ -out ./outputs/5s/ -dur 5`
