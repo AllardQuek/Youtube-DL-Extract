@@ -20,7 +20,7 @@ Pass youtube link(s) as arguments. Arguments must be space-separated.
 `pythoon args_ytdl.py <link1> <link2> <link3> ...` 
 
 ### Download by Passing Input File as Argument
-`python args_ytdl.py input_files/files.txt`
+`python file_ytdl.py input_files/files.txt`
 
 
 ## 2. Manipulation of Audio Files
