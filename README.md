@@ -25,6 +25,7 @@ Pass youtube link(s) as arguments. Arguments must be space-separated.
 
 ## 2. Manipulation of Audio Files
 Install pydub: `pip install pydub`
+
 Navigate to Youtube extract folder: `cd extract`
 
 ### Extract First 10s Using File Path
