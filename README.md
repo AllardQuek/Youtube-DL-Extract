@@ -11,8 +11,7 @@ When I needed to download 30 songs off Youtube for a [Guess The Song](https://so
 ## 1. Downloading mp3 from Youtube: Install youtube-dl
 `pip install youtube-dl`
 
-Alternatively, ...
-
+Navigate to Youtube download folder:
 `cd download`
 
 ### Download by Passing Command-line Arguments
