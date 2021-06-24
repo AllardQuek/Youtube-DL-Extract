@@ -8,8 +8,8 @@ An attempt to automate:
 When I needed to download 30 songs off Youtube for a [Guess The Song](https://songtrivia2.io/) game 🙃
 
 
-## 1. Downloading mp3 from Youtube: Install youtube-dl
-`pip install youtube-dl`
+## 1. Downloading mp3 from Youtube
+Install youtube-dl: `pip install youtube-dl`
 
 Navigate to Youtube download folder:
 `cd download`
@@ -24,9 +24,8 @@ Pass youtube link(s) as arguments. Arguments must be space-separated.
 
 
 ## 2. Manipulation of Audio Files
-`pip install pydub`
-
-`cd extract`
+Install pydub: `pip install pydub`
+Navigate to Youtube extract folder: `cd extract`
 
 ### Extract First 10s Using File Path
 Pass the filepath as an argument.
