@@ -1,4 +1,4 @@
-# Youtube-DL-Extract-mp3
+# YTDL-Extract-mp3
 
 An attempt to automate:
 
